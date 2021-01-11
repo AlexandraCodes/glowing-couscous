@@ -6,8 +6,13 @@
 /*   By: alecasti <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/05 17:11:36 by alecasti          #+#    #+#             */
-/*   Updated: 2020/05/05 17:11:42 by alecasti         ###   ########.fr       */
+/*   Updated: 2021/01/11 14:14:50 by alecasti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "get_next_line.h"
 
+int get_next_line(int fd, char **line)
+{
+
+}
