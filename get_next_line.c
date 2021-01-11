@@ -6,7 +6,7 @@
 /*   By: alecasti <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/05/05 17:11:36 by alecasti          #+#    #+#             */
-/*   Updated: 2021/01/11 14:14:50 by alecasti         ###   ########.fr       */
+/*   Updated: 2021/01/11 14:18:09 by alecasti         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,5 +14,5 @@
 
 int get_next_line(int fd, char **line)
 {
-
+    // comments to push with
 }
